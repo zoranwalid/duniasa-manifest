@@ -1,0 +1,38 @@
+{
+  "name": "DuniaAsa",
+  "short_name": "DuniaAsa",
+  "start_url": "https://www.duniasa.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Dunia informasi wisata, kuliner, paket tour, resep masakan, tips, backpacker, wonderful indonesia, liburan bersama keluarga.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-Apd36fNNUig/XK7o1p3g3uI/AAAAAAAAj1E/qeoFs3ztmfAGiq1XOUw0f1beKudXFsA9wCLcBGAs/s48/da.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Apd36fNNUig/XK7o1p3g3uI/AAAAAAAAj1E/qeoFs3ztmfAGiq1XOUw0f1beKudXFsA9wCLcBGAs/s72/da.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Apd36fNNUig/XK7o1p3g3uI/AAAAAAAAj1E/qeoFs3ztmfAGiq1XOUw0f1beKudXFsA9wCLcBGAs/s96/da.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Apd36fNNUig/XK7o1p3g3uI/AAAAAAAAj1E/qeoFs3ztmfAGiq1XOUw0f1beKudXFsA9wCLcBGAs/s144/da.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Apd36fNNUig/XK7o1p3g3uI/AAAAAAAAj1E/qeoFs3ztmfAGiq1XOUw0f1beKudXFsA9wCLcBGAs/s168/da.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Apd36fNNUig/XK7o1p3g3uI/AAAAAAAAj1E/qeoFs3ztmfAGiq1XOUw0f1beKudXFsA9wCLcBGAs/s192/da.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Apd36fNNUig/XK7o1p3g3uI/AAAAAAAAj1E/qeoFs3ztmfAGiq1XOUw0f1beKudXFsA9wCLcBGAs/s512/da.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
